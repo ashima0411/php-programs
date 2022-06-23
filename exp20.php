@@ -1,4 +1,4 @@
 <?php
-$file=fopen("dhruv.txt","r+");
-echo fwrite($file,"hlo dhruv  how r u");
+$file=fopen("file.txt","r+");
+echo fwrite($file,"hlo ashima how r u");
 ?>
