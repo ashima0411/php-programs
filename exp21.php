@@ -19,6 +19,6 @@
 	$file_size=$_FILES['file']['size'];
 	$file_tmp=$_FILES['file']['tmp_name'];
 	$file_type=$_FILES['file']['type'];
-	move_uploaded_file($file_tmp,"dhruv".$file_name);
+	move_uploaded_file($file_tmp,"ashima".$file_name);
 	}
 ?>
